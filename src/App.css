@@ -16,6 +16,56 @@ body {
   padding: 0;
   box-sizing: border-box;
   gap: 0;
+  overflow-x: hidden;
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 0 0.5rem;
+    min-width: 0;
+  }
+  .word-section, .info-section {
+    padding: 14px 8px !important;
+    max-width: 98vw !important;
+    min-width: 0 !important;
+  }
+  .spelling-section {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 12px !important;
+    margin-bottom: 20px !important;
+  }
+  h1 {
+    font-size: 1.5rem !important;
+    margin-bottom: 1.2rem !important;
+  }
+  #currentWord {
+    font-size: 1.3rem !important;
+    letter-spacing: 1.5px !important;
+  }
+  .next-button, .say-button, .word-button, button {
+    font-size: 1rem !important;
+    padding: 10px 12px !important;
+    min-width: 0 !important;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  input[type="text"] {
+    font-size: 1rem !important;
+    padding: 10px 8px !important;
+    min-width: 0 !important;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .related-section {
+    flex-direction: column !important;
+    gap: 4px !important;
+  }
+}
+
+.word-section, .info-section, .spelling-section {
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 h1 {
