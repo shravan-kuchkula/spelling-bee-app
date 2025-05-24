@@ -46,14 +46,32 @@ function App() {
     setCurrentWordIndex((currentWordIndex + 1) % words.length);
   };
 
-  const handleSayWord = () => {
+  const getNaturalVoice = () => {
     if ('speechSynthesis' in window) {
-      const utter = new window.SpeechSynthesisUtterance(word.word);
+      const voices = window.speechSynthesis.getVoices();
+      // Prefer Google US English if available, else first English voice
+      return voices.find(v => v.name === 'Google US English') || voices.find(v => v.lang.startsWith('en')) || null;
+    }
+    return null;
+  };
+
+  const speakWithNaturalVoice = (text) => {
+    if ('speechSynthesis' in window) {
+      const utter = new window.SpeechSynthesisUtterance(text);
       utter.lang = 'en-US';
+      utter.rate = 0.98;
+      utter.pitch = 1.1;
+      utter.volume = 1;
+      const voice = getNaturalVoice();
+      if (voice) utter.voice = voice;
       window.speechSynthesis.speak(utter);
     } else {
       alert('Sorry, your browser does not support speech synthesis.');
     }
+  };
+
+  const handleSayWord = () => {
+    speakWithNaturalVoice(word.word);
   };
 
   return (
@@ -63,24 +81,8 @@ function App() {
   {/* Left column: speech buttons */}
   <div className="speech-buttons-col" style={{display: 'flex', flexDirection: 'column', gap: 14, minWidth: 170, flex: 1, maxWidth: 200, justifyContent: 'flex-start'}}>
     <button className="say-button" onClick={handleSayWord} style={{padding: '0.6rem 1.25rem', borderRadius: 8, border: 'none', background: '#007bff', color: '#fff', fontWeight: 700, fontSize: '1.05rem', cursor: 'pointer', boxShadow: '0 2px 6px #007bff22'}}>🔊 Say Word</button>
-    <button className="meaning-button" onClick={() => {
-      if ('speechSynthesis' in window) {
-        const utter = new window.SpeechSynthesisUtterance(word.meaning);
-        utter.lang = 'en-US';
-        window.speechSynthesis.speak(utter);
-      } else {
-        alert('Sorry, your browser does not support speech synthesis.');
-      }
-    }} style={{padding: '0.6rem 1.25rem', borderRadius: 8, border: 'none', background: '#28a745', color: '#fff', fontWeight: 700, fontSize: '1.05rem', cursor: 'pointer', boxShadow: '0 2px 6px #28a74522'}}>💡 Give me the meaning</button>
-    <button className="usage-button" onClick={() => {
-      if ('speechSynthesis' in window) {
-        const utter = new window.SpeechSynthesisUtterance(word.usage);
-        utter.lang = 'en-US';
-        window.speechSynthesis.speak(utter);
-      } else {
-        alert('Sorry, your browser does not support speech synthesis.');
-      }
-    }} style={{padding: '0.6rem 1.25rem', borderRadius: 8, border: 'none', background: '#fd7e14', color: '#fff', fontWeight: 700, fontSize: '1.05rem', cursor: 'pointer', boxShadow: '0 2px 6px #fd7e1422'}}>📝 Use it in a sentence</button>
+    <button className="meaning-button" onClick={() => speakWithNaturalVoice(word.meaning)} style={{padding: '0.6rem 1.25rem', borderRadius: 8, border: 'none', background: '#28a745', color: '#fff', fontWeight: 700, fontSize: '1.05rem', cursor: 'pointer', boxShadow: '0 2px 6px #28a74522'}}>💡 Give me the meaning</button>
+    <button className="usage-button" onClick={() => speakWithNaturalVoice(word.usage)} style={{padding: '0.6rem 1.25rem', borderRadius: 8, border: 'none', background: '#fd7e14', color: '#fff', fontWeight: 700, fontSize: '1.05rem', cursor: 'pointer', boxShadow: '0 2px 6px #fd7e1422'}}>📝 Use it in a sentence</button>
   </div>
   {/* Right column: pronunciation, input, check */}
   <div className="input-col" style={{display: 'flex', flexDirection: 'column', gap: 14, minWidth: 200, flex: 2, maxWidth: 320, justifyContent: 'flex-start', alignItems: 'stretch'}}>
