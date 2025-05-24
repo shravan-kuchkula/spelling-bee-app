@@ -1,0 +1,1128 @@
+[
+    {
+      "word": "sky",
+      "meaning": "The region of the atmosphere and outer space visible from Earth.",
+      "pronunciation": "/skaɪ/",
+      "usage": "The clear sky was full of bright stars tonight.",
+      "roots": "From Old Norse \"ský\" meaning \"cloud\" (Proto-Germanic *skūh-, “cloud”).",
+      "etymology": "Originally meant \"cloud\" in Old Norse; later the meaning shifted to the expanse above the Earth in English.",
+      "related": ["heaven", "firmament", "skyward", "skyscraper"]
+    },
+    {
+      "word": "wow",
+      "meaning": "An exclamation of surprise, wonder, or admiration.",
+      "pronunciation": "/waʊ/",
+      "usage": "\"Wow, that firework display was amazing!\" she exclaimed.",
+      "roots": "Expressive interjection without clear etymological roots (possibly imitative in English).",
+      "etymology": "\"Wow\" is an interjection of uncertain origin in English, used to express astonishment.",
+      "related": ["amaze", "astonish", "surprised"]
+    },
+    {
+      "word": "hug",
+      "meaning": "To clasp or hold tightly in one's arms, especially as a sign of affection.",
+      "pronunciation": "/hʌɡ/",
+      "usage": "After the game, the team captain gave his teammate a big hug.",
+      "roots": "Old English *hycgan (\"to embrace\"); of Germanic origin.",
+      "etymology": "From Old English *hycgan (meaning \"to embrace\"); related to Germanic languages.",
+      "related": ["embrace", "cuddle", "snuggle"]
+    },
+    {
+      "word": "snap",
+      "meaning": "To break (something) with a sudden sharp sound or a quick, forceful movement.",
+      "pronunciation": "/snæp/",
+      "usage": "He managed to snap the twig in two with one swift motion.",
+      "roots": "Old Norse *snappa or Dutch/snappen \"to snap, nibble\" (onomatopoeic origin).",
+      "etymology": "Old Norse and Middle Dutch, imitative of the sound of something breaking sharply.",
+      "related": ["crack", "break", "snapper"]
+    },
+    {
+      "word": "tape",
+      "meaning": "A long, narrow strip of material used for binding or fastening things.",
+      "pronunciation": "/teɪp/",
+      "usage": "She used adhesive tape to wrap the gift neatly.",
+      "roots": "Old English tēap (\"strip of cloth\"), from Proto-Germanic *tīpą.",
+      "etymology": "From Old English tēap, originally a cloth strip; related to Proto-Germanic and Latin tīpus.",
+      "related": ["ribbon", "adhesive", "bind"]
+    },
+    {
+      "word": "sips",
+      "meaning": "Third-person singular of sip: takes small mouthfuls of liquid.",
+      "pronunciation": "/sɪps/",
+      "usage": "She sips her tea quietly while reading the book.",
+      "roots": "From Old English *sipian (\"to sip\"); Germanic origin.",
+      "etymology": "From Proto-Germanic *sipijaną (\"to sip\"); similar to German sippeln.",
+      "related": ["drink", "slurp", "nibble"]
+    },
+    {
+      "word": "hard",
+      "meaning": "Solid, firm, and rigid; requiring significant effort or endurance.",
+      "pronunciation": "/hɑːrd/",
+      "usage": "He hit the baseball hard and it flew over the fence.",
+      "roots": "Old English heard (\"firm, obstinate\"), from Proto-Germanic *harduz.",
+      "etymology": "From Old English heard meaning \"solid or severe\"; common Germanic origin (compare German hart).",
+      "related": ["difficult", "firm", "rigid"]
+    },
+    {
+      "word": "why",
+      "meaning": "For what reason or purpose; by what means.",
+      "pronunciation": "/waɪ/",
+      "usage": "She asked, \"Why did you choose this book?\"",
+      "roots": "Old English hwiġe; interrogative adverb.",
+      "etymology": "From Old English hwiġe (related to English who, what), from Proto-Germanic *khwi- (\"who\").",
+      "related": ["for what reason", "how come"]
+    },
+    {
+      "word": "first",
+      "meaning": "Coming before all others in time or order; 1st.",
+      "pronunciation": "/fɜːrst/",
+      "usage": "She finished first in the race.",
+      "roots": "Old English fyrrest (\"most forward\"), superlative of 'fore'.",
+      "etymology": "Derived from Old English fyrmest, superlative of fore (Old English for \"before\").",
+      "related": ["initial", "primary", "earliest"]
+    },
+    {
+      "word": "tide",
+      "meaning": "The periodic rise and fall of the sea level caused by the moon and sun's gravity.",
+      "pronunciation": "/taɪd/",
+      "usage": "Fishermen must plan their trips according to the tide schedule.",
+      "roots": "Old English tid (\"time, season, tide\"), Proto-Germanic *tidiz.",
+      "etymology": "From Old English tid \"time, season\"; in later use applied to sea levels.",
+      "related": ["current", "ebb", "flood"]
+    },
+    {
+      "word": "bow",
+      "meaning": "A curved weapon that shoots arrows; or to bend at the waist.",
+      "pronunciation": "/baʊ/ or /boʊ/",
+      "usage": "He used a bow and arrow to hunt, then took a bow after the performance.",
+      "roots": "Old English boga (\"archery bow\"), Proto-Germanic *buganą; and Old English bugan (\"to bend\").",
+      "etymology": "From Old English boga (\"archery bow\"); also related to Proto-Germanic and Old Norse boga. For the verb, from Old English bugan.",
+      "related": ["archery", "bend", "salute"]
+    },
+    {
+      "word": "back",
+      "meaning": "The rear surface or part; the opposite of front.",
+      "pronunciation": "/bæk/",
+      "usage": "He leaned back in his chair to relax.",
+      "roots": "Old English bæc (\"back, ridge\"), Proto-Germanic *bakkijǭ.",
+      "etymology": "From Old English bæc, meaning \"back of body or object\"; a common Germanic word (compare German Rücken).",
+      "related": ["rear", "behind", "support"]
+    },
+    {
+      "word": "find",
+      "meaning": "To discover or locate something after searching.",
+      "pronunciation": "/faɪnd/",
+      "usage": "I hope to find my missing keys under the couch.",
+      "roots": "Old English findan (\"to find\"), Proto-Germanic *finthijaz.",
+      "etymology": "From Old English findan, \"to come upon\"; related to German finden.",
+      "related": ["discover", "locate", "encounter"]
+    },
+    {
+      "word": "name",
+      "meaning": "A word by which a person, place, or thing is known.",
+      "pronunciation": "/neɪm/",
+      "usage": "Her name is Maya.",
+      "roots": "Old English nama (\"name\"), Proto-Germanic *namô.",
+      "etymology": "From Old English nama; ultimately from Proto-Indo-European *nōmn̥.",
+      "related": ["title", "identify", "label"]
+    },
+    {
+      "word": "oops",
+      "meaning": "An exclamation used when a minor mistake is made.",
+      "pronunciation": "/uːps/",
+      "usage": "\"Oops!\" I said as the glass slipped from my fingers.",
+      "roots": "Colloquial exclamation of surprise; origin imitative.",
+      "etymology": "Modern English slang exclamation, from an imitative sound of surprise or minor error.",
+      "related": ["oh", "uh-oh", "my mistake"]
+    },
+    {
+      "word": "more",
+      "meaning": "A greater or additional amount or degree.",
+      "pronunciation": "/mɔːr/",
+      "usage": "Would you like more coffee?",
+      "roots": "Old English māra (\"greater\"), comparative of manig (\"many\").",
+      "etymology": "From Old English māra, comparative of manig (many), meaning \"greater quantity\".",
+      "related": ["additional", "extra", "greater"]
+    },
+    {
+      "word": "toss",
+      "meaning": "To throw or fling something lightly or casually.",
+      "pronunciation": "/tɒs/",
+      "usage": "She gave a quick toss to the ball into the air.",
+      "roots": "Perhaps imitative or dialectal; Middle English tosse, meaning to toss hay.",
+      "etymology": "Possibly from dialectal or imitative origins; used in Middle English with similar meaning.",
+      "related": ["throw", "fling", "pitch"]
+    },
+    {
+      "word": "chin",
+      "meaning": "The lower front part of the face below the mouth.",
+      "pronunciation": "/tʃɪn/",
+      "usage": "He scratched his chin thoughtfully.",
+      "roots": "Old English cin (from Proto-Germanic *kinô, based on PIE root *ǵenu- \"jaw\").",
+      "etymology": "From Old English cin (\"chin\"), from Proto-Germanic, ultimately from Proto-Indo-European root for \"jaw\".",
+      "related": ["jaw", "jowl", "mandible"]
+    },
+    {
+      "word": "park",
+      "meaning": "A large public green area in a town, or to bring a vehicle to rest and leave it temporarily.",
+      "pronunciation": "/pɑːrk/",
+      "usage": "They went to the park for a picnic; he had to park the car around the corner.",
+      "roots": "Middle English parke (\"enclosed area\"), from Old North French parc (\"enclosure, game preserve\").",
+      "etymology": "From Old French parc (Germanic origin *park) meaning \"enclosed piece of land\"; used for gardens and then extended to parking vehicles.",
+      "related": ["reserve", "garden", "station"]
+    },
+    {
+      "word": "bike",
+      "meaning": "Short for bicycle: a vehicle with two wheels powered by pedaling.",
+      "pronunciation": "/baɪk/",
+      "usage": "She rode her bike to school every day.",
+      "roots": "Abbreviation of bicycle; bicycle from Greek bi- \"two\" + Latin cyclum \"circle\".",
+      "etymology": "Short form of bicycle, which was coined from Greek bi- (\"two\") + Latin cyclum (\"circle\").",
+      "related": ["bicycle", "cycle", "motorcycle"]
+    },
+    {
+      "word": "nest",
+      "meaning": "A structure built by birds or other animals to hold eggs or young.",
+      "pronunciation": "/nɛst/",
+      "usage": "The robin built a nest in the tree outside my window.",
+      "roots": "Old English nest (\"nest\"), from Proto-Germanic *nistaz.",
+      "etymology": "From Old English nest, from Proto-Germanic *nistaz; similar words in other Germanic languages.",
+      "related": ["roost", "den", "lair"]
+    },
+    {
+      "word": "rude",
+      "meaning": "Offensively impolite or ill-mannered.",
+      "pronunciation": "/ruːd/",
+      "usage": "It was rude of him to interrupt during her speech.",
+      "roots": "Latin rudis (\"unpolished, crude\").",
+      "etymology": "From Latin rudis (meaning \"crude, untrained\"), via Old French and Middle English.",
+      "related": ["impolite", "crude", "ill-mannered"]
+    },
+    {
+      "word": "deal",
+      "meaning": "An agreement or transaction; also to distribute playing cards.",
+      "pronunciation": "/diːl/",
+      "usage": "They struck a deal to exchange services.",
+      "roots": "Old English *dægel (\"division, allotment\"), from Proto-Germanic *dajlaz.",
+      "etymology": "From Old English dægel (meaning \"a part or share\"); related to German teil (\"part\").",
+      "related": ["agreement", "transaction", "distribute"]
+    },
+    {
+      "word": "store",
+      "meaning": "A place where goods are sold; to keep or accumulate.",
+      "pronunciation": "/stɔːr/",
+      "usage": "She went to the store to buy groceries; they store food for the winter.",
+      "roots": "Old English storian (\"to store up\"), from Proto-Germanic *sturōną.",
+      "etymology": "From Old English storian (\"to build up store\"); related to stor (\"large quantity\").",
+      "related": ["shop", "warehouse", "hoard"]
+    },
+    {
+      "word": "roads",
+      "meaning": "Plural of road: paths or ways for vehicles or travelers.",
+      "pronunciation": "/roʊdz/",
+      "usage": "The highways and roads connect the cities together.",
+      "roots": "Old English rod (\"clearing, path\"), from Proto-Germanic *rōdaz.",
+      "etymology": "From Old English rād (via its plural roads), originally meaning \"a cleared path\".",
+      "related": ["streets", "ways", "paths"]
+    },
+    {
+      "word": "cool",
+      "meaning": "Moderately cold; also fashionable or calmly composed.",
+      "pronunciation": "/kuːl/",
+      "usage": "The evening breeze is cool; She remained cool under pressure.",
+      "roots": "Old English cōl (\"cold, cool\"), from Proto-Germanic *kaljō.",
+      "etymology": "From Old English cōl, originally meaning \"cold\", now also slang for fashionable or calm.",
+      "related": ["cold", "chilly", "composed", "stylish"]
+    },
+    {
+      "word": "wake",
+      "meaning": "To emerge or cause to emerge from sleep; also the trail behind a moving body.",
+      "pronunciation": "/weɪk/",
+      "usage": "The alarm helped me wake up early.",
+      "roots": "Old English wacian (\"to be awake\"), Proto-Germanic *wakōną.",
+      "etymology": "From Old English wacian (\"to be awake\"), related to watch and watchfulness.",
+      "related": ["awaken", "arise", "alert"]
+    },
+    {
+      "word": "vase",
+      "meaning": "A decorative container, often for holding cut flowers.",
+      "pronunciation": "/veɪs/ or /vɑːz/",
+      "usage": "She filled the vase with fresh lilies.",
+      "roots": "Latin vas (\"vessel, container\").",
+      "etymology": "From Latin vas, vasum (\"vessel\"), through Old French vase.",
+      "related": ["jar", "urn", "container"]
+    },
+    {
+      "word": "tune",
+      "meaning": "A melody; to adjust (an instrument) to the correct pitch.",
+      "pronunciation": "/tjuːn/",
+      "usage": "He learned to play a popular tune on the piano.",
+      "roots": "Old English tyne (\"musical tone\"), from Proto-Germanic *tīnan.",
+      "etymology": "From Old English tune (\"musical tone, melody\"), related to German Ton (\"tone\").",
+      "related": ["melody", "air", "pitch"]
+    },
+    {
+      "word": "coat",
+      "meaning": "An outer garment worn for warmth or fashion; also a layer (as of paint).",
+      "pronunciation": "/koʊt/",
+      "usage": "She put on her coat before going outside.",
+      "roots": "Old French cote (\"overcoat, jacket\"), from Medieval Latin cottus.",
+      "etymology": "From Old French cote, meaning \"coat or jacket\"; related to Dutch katoen (\"cotton\") for the fabric.",
+      "related": ["jacket", "outerwear", "layer"]
+    },
+    {
+      "word": "four",
+      "meaning": "The number equivalent to 2 + 2; the cardinal number after three.",
+      "pronunciation": "/fɔːr/",
+      "usage": "\"We have four apples,\" she counted aloud.",
+      "roots": "Old English feower, Proto-Germanic *fedwōr (from PIE *kwetwer-).",
+      "etymology": "From Old English feower, from Proto-Germanic *fedwōr, from PIE *kwetwer- (as in Latin quattuor).",
+      "related": ["quadruple", "quartet", "4"]
+    },
+    {
+      "word": "block",
+      "meaning": "A solid piece of material (wood, stone, etc.); to obstruct or stop motion.",
+      "pronunciation": "/blɑːk/",
+      "usage": "He used a block of wood to prop open the door.",
+      "roots": "Old French bloc (\"tree trunk\"), origin uncertain, possibly Celtic.",
+      "etymology": "From Old French bloc (\"tree trunk, block of wood\"); possibly of Celtic origin.",
+      "related": ["obstacle", "barrier", "obstruct"]
+    },
+    {
+      "word": "heap",
+      "meaning": "A large pile or mass of something.",
+      "pronunciation": "/hiːp/",
+      "usage": "They threw all the autumn leaves into a heap and burned them.",
+      "roots": "Old English hēap (\"pile\").",
+      "etymology": "From Old English hēap, meaning a piled mass; akin to German Haufen.",
+      "related": ["pile", "mount", "stack"]
+    },
+    {
+      "word": "ladder",
+      "meaning": "A device for climbing, consisting of a series of bars or steps between two lengths of wood or rope.",
+      "pronunciation": "/ˈlædər/",
+      "usage": "He climbed the ladder to reach the roof.",
+      "roots": "Old English hlyder (\"ladder\"), Proto-Germanic *hlaitraz.",
+      "etymology": "From Old English hlyder (\"ladder\"), related to Dutch ladder.",
+      "related": ["staircase", "steps", "climb"]
+    },
+    {
+      "word": "tug",
+      "meaning": "To pull something hard or suddenly.",
+      "pronunciation": "/tʌɡ/",
+      "usage": "He gave on the rope a strong tug to move the boat.",
+      "roots": "Old English tuggen (\"to tug\"), of uncertain origin.",
+      "etymology": "Of unknown origin; first recorded in late 15th century.",
+      "related": ["yank", "haul", "pull"]
+    },
+    {
+      "word": "spoon",
+      "meaning": "A utensil with a shallow bowl and a handle, used for eating or serving food.",
+      "pronunciation": "/spuːn/",
+      "usage": "He stirred his soup with a spoon.",
+      "roots": "Old English spōn (\"chip, shavings\"; later \"spoon\"), Proto-Germanic *spōną.",
+      "etymology": "Originally meant \"chip of wood\"; later applied to eating utensil. From Old English spōn.",
+      "related": ["ladle", "tableware", "serve"]
+    },
+    {
+      "word": "spark",
+      "meaning": "A small fiery particle thrown off from a fire; a small flash of light.",
+      "pronunciation": "/spɑːrk/",
+      "usage": "The spark from the campfire landed on his boot.",
+      "roots": "Old Norse *sparka (\"to sparkle\"), or Middle English sparken.",
+      "etymology": "From Middle English sparken (\"to emit sparks\"), probably from an older Scandinavian word.",
+      "related": ["ember", "flash", "ignite"]
+    },
+    {
+      "word": "later",
+      "meaning": "At a time in the near future; after the time in question.",
+      "pronunciation": "/ˈleɪtər/",
+      "usage": "She arrived later than expected.",
+      "roots": "Old English lætra (\"more late\"), comparative of late.",
+      "etymology": "From Old English lætra (comparative of lȳt (late)), meaning \"more late\".",
+      "related": ["afterwards", "subsequently", "then"]
+    },
+    {
+      "word": "hair",
+      "meaning": "The fine thread-like strands growing from the skin of humans or animals.",
+      "pronunciation": "/hɛər/",
+      "usage": "She brushed her hair each morning.",
+      "roots": "Old English hær, Proto-Germanic *khairą.",
+      "etymology": "From Old English hær (plural hēru), meaning \"hair\"; cognate with German Haar.",
+      "related": ["fur", "wool", "tress"]
+    },
+    {
+      "word": "open",
+      "meaning": "Not closed or blocked; to move or remove a barrier.",
+      "pronunciation": "/ˈoʊpən/",
+      "usage": "Please open the window; the doors are open for customers.",
+      "roots": "Old English openian (\"to open, lay open\"), from Proto-Germanic *upaną.",
+      "etymology": "From Old English openian; related to German offen (open).",
+      "related": ["ajar", "uncover", "accessible"]
+    },
+    {
+      "word": "this",
+      "meaning": "A determiner or pronoun indicating a person or thing close at hand or being indicated.",
+      "pronunciation": "/ðɪs/",
+      "usage": "\"This is my book,\" he said, pointing to the table.",
+      "roots": "Old English þes (masc.), þes (neut.), Proto-Germanic *isa.",
+      "etymology": "From Old English þes, þis; cognate with Dutch dit and German dies (this).",
+      "related": ["here", "present", "current"]
+    },
+    {
+      "word": "his",
+      "meaning": "Possessive form of he; belonging to him.",
+      "pronunciation": "/hɪz/",
+      "usage": "John gave his book to Mary.",
+      "roots": "Old English his, genitive of he.",
+      "etymology": "From Old English his (genitive of he), Proto-Germanic *hes- (genitive of he).",
+      "related": ["her", "their", "my"]
+    },
+    {
+      "word": "May",
+      "meaning": "The fifth month of the year; also an auxiliary verb expressing possibility.",
+      "pronunciation": "/meɪ/",
+      "usage": "They planned a wedding in May; May I come in?",
+      "roots": "Named after Maia, an earth goddess in Roman mythology.",
+      "etymology": "From Latin Maius (month named for Maia). As verb, from Old English magan (\"be able\").",
+      "related": ["June", "might", "can"]
+    },
+    {
+      "word": "grid",
+      "meaning": "A network of lines that cross each other to form a series of squares or rectangles.",
+      "pronunciation": "/ɡrɪd/",
+      "usage": "The map showed a grid of streets downtown.",
+      "roots": "Old English grēd (\"gravel\"), or from grid meaning gate; sometimes folk etymology from grate.",
+      "etymology": "Origin unclear; possibly related to Dutch grid (\"bar, obstacle\"). First used for patterns by the 16th century.",
+      "related": ["lattice", "network", "matrix"]
+    },
+    {
+      "word": "wag",
+      "meaning": "To move something (often tail or finger) rapidly from side to side.",
+      "pronunciation": "/wæɡ/",
+      "usage": "The dog began to wag its tail when it saw its owner.",
+      "roots": "Old English wagian (\"to move violently\"), of Germanic origin.",
+      "etymology": "From Old English wagian; used for rapid shaking motions.",
+      "related": ["shake", "jostle", "wobble"]
+    },
+    {
+      "word": "near",
+      "meaning": "At or to a short distance away.",
+      "pronunciation": "/nɪər/",
+      "usage": "The school is near my house.",
+      "roots": "Old English nēah (\"near\"), Proto-Germanic *nēhiz.",
+      "etymology": "From Old English nēah, meaning \"close\"; akin to German nah.",
+      "related": ["close", "by", "adjacent"]
+    },
+    {
+      "word": "zip",
+      "meaning": "To move at high speed (slang); a fastener for closing fabric edges.",
+      "pronunciation": "/zɪp/",
+      "usage": "He zipped down the road on his bike; He needed to zip up his jacket.",
+      "roots": "Originally an acronym Zipper, from the sound it makes; 20th century brand name.",
+      "etymology": "From trademark Zipper (1893); popularized for the fastening device and the sound.",
+      "related": ["fastener", "zoom", "snap"]
+    },
+    {
+      "word": "rug",
+      "meaning": "A piece of thick fabric used as a floor covering or mat.",
+      "pronunciation": "/rʌɡ/",
+      "usage": "She placed a wool rug under the coffee table.",
+      "roots": "Old Norse rogg (\"coarse cloth\").",
+      "etymology": "From Old Norse rogg, meaning \"coarse cloth\" or \"tapestry\"; cognate with Swedish rygg (back).",
+      "related": ["carpet", "mat", "throw"]
+    },
+    {
+      "word": "dots",
+      "meaning": "Plural of dot: small round marks or spots.",
+      "pronunciation": "/dɒts/",
+      "usage": "He connected the numbered dots to draw a picture.",
+      "roots": "Middle English dot, origin unknown.",
+      "etymology": "From Middle English dot; possibly imitative origin for small spots.",
+      "related": ["spots", "points", "specks"]
+    },
+    {
+      "word": "pat",
+      "meaning": "To touch lightly and repeatedly, often as a gesture of affection.",
+      "pronunciation": "/pæt/",
+      "usage": "He gave the puppy a gentle pat on the head.",
+      "roots": "Perhaps imitative or related to Middle English patten (\"to fall with a gentle sound\").",
+      "etymology": "First attested in late 16th c. as an imitative verb; likely of imitative origin.",
+      "related": ["tap", "rub", "stroke"]
+    },
+    {
+      "word": "pole",
+      "meaning": "A long, cylindrical piece of wood or metal; either of the two farthest points of the Earth (North Pole, South Pole).",
+      "pronunciation": "/poʊl/",
+      "usage": "He set up a pole in the ground to support the tent.",
+      "roots": "Old English pōl (\"poll, head, top\"; later \"pole, stake\"), Proto-Germanic *pulaz.",
+      "etymology": "From Old English pōl (\"head, top\"), evolved to mean \"staff or pole\"; related to pulse (\"head\").",
+      "related": ["rod", "staff", "axis"]
+    },
+    {
+      "word": "snake",
+      "meaning": "A long, legless reptile covered with scales.",
+      "pronunciation": "/sneɪk/",
+      "usage": "The snake slithered silently through the grass.",
+      "roots": "Old English snaca, Proto-Germanic *snakaz.",
+      "etymology": "From Old English snaca, originally meaning any kind of snake or serpent.",
+      "related": ["serpent", "viper", "python"]
+    },
+    {
+      "word": "mound",
+      "meaning": "A raised heap or pile, especially of earth or stones.",
+      "pronunciation": "/maʊnd/",
+      "usage": "They built a mound of leaves to jump into.",
+      "roots": "Old English mund (\"hand\"; but for heap, from Old Norse månthaugr?), perhaps imitative.",
+      "etymology": "Possibly from Old Norse (cf. Norwegian månhaug). First used in 18th c. for a heap or hillock.",
+      "related": ["hillock", "heap", "pile"]
+    },
+    {
+      "word": "smaller",
+      "meaning": "Comparative of small: of a size less than normal or usual.",
+      "pronunciation": "/ˈsmɔːlər/",
+      "usage": "She bought a smaller jacket this time.",
+      "roots": "From Old English smæl (\"narrow, small\") + -er.",
+      "etymology": "Comparative form of small; Old English smæl (\"small or narrow\").",
+      "related": ["tinier", "shorter", "lesser"]
+    },
+    {
+      "word": "grand",
+      "meaning": "Magnificent or splendid in appearance; $1000 (slang).",
+      "pronunciation": "/ɡrænd/",
+      "usage": "They attended the grand opening of the museum.",
+      "roots": "Old French grand (\"great, tall\"), from Latin grandis (\"large, great\").",
+      "etymology": "From Old French grand, from Latin grandis (\"large, full-grown\").",
+      "related": ["great", "magnificent", "thousand"]
+    },
+    {
+      "word": "gross",
+      "meaning": "Unpleasant or disgusting; total before deductions.",
+      "pronunciation": "/ɡroʊs/",
+      "usage": "He was grossed out by the smell; She earned a gross salary of $50,000.",
+      "roots": "Old French gros (\"big, thick\"), from Latin grossus (\"large\"), Germanic origin.",
+      "etymology": "From Old French gros (from Latin grossus), meaning \"coarse or large\"; in English sense of \"disgusting\" from late 20th c. slang.",
+      "related": ["disgusting", "total", "coarse"]
+    },
+    {
+      "word": "wish",
+      "meaning": "To long or hope for something; a desire or hope for something to happen.",
+      "pronunciation": "/wɪʃ/",
+      "usage": "I wish for peace and happiness for my family.",
+      "roots": "Old English wæscan (\"to desire, wish\"), Proto-Germanic *waskijaną.",
+      "etymology": "From Old English wæscan, meaning \"to will or desire\"; related to German wünschen.",
+      "related": ["desire", "hope", "want"]
+    },
+    {
+      "word": "stove",
+      "meaning": "An appliance for heating or cooking, typically by burning fuel or using electricity.",
+      "pronunciation": "/stoʊv/",
+      "usage": "She preheated the stove before baking the cake.",
+      "roots": "Old English stofa (\"room, chamber\"), Middle English stove (\"cooking chamber\").",
+      "etymology": "Originally from Old English stofa (\"room with a fireplace\"); later meant the heating device itself.",
+      "related": ["oven", "heater", "range"]
+    },
+    {
+      "word": "join",
+      "meaning": "To connect or bring together; to become a member of a group.",
+      "pronunciation": "/dʒɔɪn/",
+      "usage": "Please join the club meeting this evening.",
+      "roots": "Old French joindre, from Latin jungere (\"to join\"), PIE root *yeug- (\"yoke\").",
+      "etymology": "From Old French joindre (from Latin jungere, \"yoke together\"); related to English yoke.",
+      "related": ["connect", "unite", "attach"]
+    },
+    {
+      "word": "state",
+      "meaning": "A nation or territory; to express something formally.",
+      "pronunciation": "/steɪt/",
+      "usage": "He plans to visit the state capitol; She will state her opinion clearly.",
+      "roots": "Latin status (\"position, condition\"), Old French estat (\"state, condition\").",
+      "etymology": "From Latin status, via Old French estat meaning \"condition, political status\".",
+      "related": ["condition", "nation", "declare"]
+    },
+    {
+      "word": "blank",
+      "meaning": "Empty or void; a space left unfilled.",
+      "pronunciation": "/blæŋk/",
+      "usage": "He stared at the blank page, unsure what to write.",
+      "roots": "Old French blanc (\"white, fair\"), from Frankish *blank (\"shining, white\").",
+      "etymology": "From Old French blanc (\"white, fair\"), originally meaning \"blanched, pale\", now meaning empty or unfilled.",
+      "related": ["empty", "void", "clean"]
+    },
+    {
+      "word": "give",
+      "meaning": "To transfer possession of something to someone; to present voluntarily.",
+      "pronunciation": "/ɡɪv/",
+      "usage": "Please give this book to your brother.",
+      "roots": "Old English gifan (\"to give\"), Proto-Germanic *gebaną.",
+      "etymology": "From Old English gifan, meaning \"to bestow or present\"; related to German geben.",
+      "related": ["present", "bestow", "donate"]
+    },
+    {
+      "word": "other",
+      "meaning": "Used to refer to a person or thing that is different or distinct from one already mentioned.",
+      "pronunciation": "/ˈʌðər/",
+      "usage": "He took one book and the other remained on the table.",
+      "roots": "Old English ōþer, Proto-Germanic *anþeraz.",
+      "etymology": "From Old English ōþer, from Proto-Germanic *anþeraz, meaning \"second\" or \"different\".",
+      "related": ["another", "different", "else"]
+    },
+    {
+      "word": "bedroom",
+      "meaning": "A room furnished with a bed and used for sleeping.",
+      "pronunciation": "/ˈbɛdruːm/",
+      "usage": "He painted his bedroom walls light blue.",
+      "roots": "Compound of bed + room.",
+      "etymology": "From bed + room, coined in Modern English to mean a room for sleeping.",
+      "related": ["chamber", "sleeping quarters", "bedchamber"]
+    },
+    {
+      "word": "branch",
+      "meaning": "A main division of a tree stem; a division of an organization or field of study.",
+      "pronunciation": "/bræntʃ/",
+      "usage": "She placed the birdhouse on a branch of the oak tree; The bank opened a new branch downtown.",
+      "roots": "Old French branche (\"forearm, branch\"), from Late Latin branca (\"paw, foot of beast\").",
+      "etymology": "From Old French branche, from Late Latin branca meaning \"paw\"; later applied to tree limb.",
+      "related": ["limb", "arm", "division"]
+    },
+    {
+      "word": "letter",
+      "meaning": "A character of the alphabet; a written message sent to someone.",
+      "pronunciation": "/ˈlɛtər/",
+      "usage": "She wrote a letter to her pen pal.",
+      "roots": "Latin littera (\"letter of the alphabet\").",
+      "etymology": "From Latin littera, meaning \"letter of alphabet\"; also came to mean \"written message\".",
+      "related": ["character", "alphabet", "note"]
+    },
+    {
+      "word": "spring",
+      "meaning": "The season after winter and before summer; to jump or leap suddenly.",
+      "pronunciation": "/sprɪŋ/",
+      "usage": "The flowers bloom in spring; The cat sprang onto the counter.",
+      "roots": "Old English springan (\"to jump, burst forth\"), Proto-Germanic *sprengan.",
+      "etymology": "From Old English springan (\"to leap, move\"), related to German springen. Also denotes the season from Old English springan meaning \"to leap forth\".",
+      "related": ["leap", "bounce", "season"]
+    },
+    {
+      "word": "dance",
+      "meaning": "To move rhythmically to music; a social gathering where people dance.",
+      "pronunciation": "/dæns/",
+      "usage": "They will dance at the wedding reception.",
+      "roots": "Old French danser, from Frankish *dansjan (imitative origin).",
+      "etymology": "From Old French danser, of Germanic (perhaps imitative) origin; cognate with Dutch dansen.",
+      "related": ["ballet", "tango", "salsa"]
+    },
+    {
+      "word": "front",
+      "meaning": "The foremost part or surface of something.",
+      "pronunciation": "/frʌnt/",
+      "usage": "She stood at the front of the line.",
+      "roots": "Old French front (\"brow, forehead\"), from Latin frons (\"forehead, front\").",
+      "etymology": "From Latin frons via Old French, meaning \"forehead\" or \"front part\".",
+      "related": ["foremost", "ahead", "pioneer"]
+    },
+    {
+      "word": "roast",
+      "meaning": "To cook (food, especially meat) by prolonged exposure to heat; meat prepared this way.",
+      "pronunciation": "/roʊst/",
+      "usage": "They will roast a turkey for dinner.",
+      "roots": "Old English roast (\"to roast meat\"), related to Old Norse rosta.",
+      "etymology": "From Old English āristan (through Old Norse rosta), meaning \"to roast or cook with dry heat\".",
+      "related": ["bake", "grill", "broil"]
+    },
+    {
+      "word": "brave",
+      "meaning": "Ready to face danger or pain; courageous.",
+      "pronunciation": "/breɪv/",
+      "usage": "The brave firefighter saved the child from the burning building.",
+      "roots": "Old French brave (\"valiant\"), from Latin barbarus (\"foreign, barbaric\").",
+      "etymology": "From Old French brave, meaning \"courageous\" (original sense influenced by barbarus, then by Latin bravus, \"violent, savage\").",
+      "related": ["courageous", "valiant", "fearless"]
+    },
+    {
+      "word": "bright",
+      "meaning": "Emitting or reflecting a lot of light; intelligent or cheerful.",
+      "pronunciation": "/braɪt/",
+      "usage": "The room was bright and sunny; He's a bright student.",
+      "roots": "Old English beorht (\"bright, radiant\"), Proto-Germanic *berhtaz.",
+      "etymology": "From Old English beorht (\"bright, splendid\"), from Proto-Germanic *berhtaz (\"bright\").",
+      "related": ["shining", "smart", "vivid"]
+    },
+    {
+      "word": "scream",
+      "meaning": "To give a long, loud, piercing cry, often in fear or excitement.",
+      "pronunciation": "/skriːm/",
+      "usage": "She let out a scream when she saw the spider.",
+      "roots": "Middle English scrīm(en) (\"to shriek\").",
+      "etymology": "From Middle English scrim(en), possibly of Scandinavian origin.",
+      "related": ["shriek", "yell", "squeal"]
+    },
+    {
+      "word": "river",
+      "meaning": "A large natural stream of water flowing in a channel to the sea or a lake.",
+      "pronunciation": "/ˈrɪvər/",
+      "usage": "The Mississippi River flows through several U.S. states.",
+      "roots": "Old French riviere (\"stream, river\"), from Latin riparia (\"bank, riverside\").",
+      "etymology": "From Old French riviere, from Latin ripa (\"bank\"); originally meaning the bank or shore, later the waterway.",
+      "related": ["stream", "creek", "waterway"]
+    },
+    {
+      "word": "bride",
+      "meaning": "A woman on her wedding day or just before and after the ceremony.",
+      "pronunciation": "/braɪd/",
+      "usage": "The bride walked down the aisle in a white gown.",
+      "roots": "Old English brēowan (\"bride\"), Germanic origin (*brūthiz).",
+      "etymology": "From Old English bryd, Proto-Germanic *brūthiz (\"bride\"). Cognates in other Germanic languages.",
+      "related": ["groom", "fiancée", "newlywed"]
+    },
+    {
+      "word": "stall",
+      "meaning": "A compartment for an animal in a stable; to delay or halt.",
+      "pronunciation": "/stɔːl/",
+      "usage": "The cow was in its stall; He stalled the car by shifting gears wrong.",
+      "roots": "Old English steall (\"place, position\"), Proto-Germanic *stallō.",
+      "etymology": "From Old English steall meaning \"place, position\", later specialized to a compartment for livestock and to delay.",
+      "related": ["delay", "stand", "booth"]
+    },
+    {
+      "word": "point",
+      "meaning": "A specific location or position; to direct attention by extending a finger.",
+      "pronunciation": "/pɔɪnt/",
+      "usage": "He drew a point on the map; Please point to the correct answer.",
+      "roots": "Old French pointe (\"point, tip\"), from Latin punctum (\"prick, point\").",
+      "etymology": "From Old French pointe (\"sharp end\"), from Latin punctum (\"prick, point\").",
+      "related": ["tip", "dot", "aim"]
+    },
+    {
+      "word": "wedding",
+      "meaning": "A marriage ceremony, typically including festivities.",
+      "pronunciation": "/ˈwɛdɪŋ/",
+      "usage": "They invited everyone to their wedding in June.",
+      "roots": "Old English weddung (\"pledge, agreement\"), from wed (\"to pledge, marry\").",
+      "etymology": "From Old English weddung (\"pledge, marriage\"), related to the verb wed.",
+      "related": ["marriage", "nuptials", "ceremony"]
+    },
+    {
+      "word": "little",
+      "meaning": "Small in size or amount; not much.",
+      "pronunciation": "/ˈlɪtl/",
+      "usage": "She gave him a little toy car.",
+      "roots": "Old English lytel (\"small\"), Proto-Germanic *lutilaz.",
+      "etymology": "From Old English lytel, from Proto-Germanic *lutilaz (\"small\").",
+      "related": ["small", "tiny", "bit"]
+    },
+    {
+      "word": "doctor",
+      "meaning": "A qualified practitioner of medicine; to attempt to diagnose or treat.",
+      "pronunciation": "/ˈdɒktər/",
+      "usage": "He became a doctor after many years of study.",
+      "roots": "Latin doctor (\"teacher\"); doctor from Latin docere (\"to teach\").",
+      "etymology": "From Latin doctor (\"teacher, learned one\"), from docēre (\"to teach\").",
+      "related": ["physician", "practitioner", "medic"]
+    },
+    {
+      "word": "peel",
+      "meaning": "To remove the outer covering or skin from a fruit or vegetable.",
+      "pronunciation": "/piːl/",
+      "usage": "We had to peel the potatoes before boiling them.",
+      "roots": "Old English pilian (\"to peel\"), from Latin pilus (\"hair\").",
+      "etymology": "From Old English pilian, possibly from Latin pilus (\"hair, filament\") via Old French.",
+      "related": ["skin", "pare", "sheath"]
+    },
+    {
+      "word": "snack",
+      "meaning": "A small amount of food eaten between meals.",
+      "pronunciation": "/snæk/",
+      "usage": "She grabbed a snack of apple slices and nuts.",
+      "roots": "Late Middle English snak (\"a bit to eat at night\").",
+      "etymology": "First attested mid-16th century, from earlier Dutch perhaps, originally meaning a nibble or morsel.",
+      "related": ["treat", "nibble", "bite"]
+    },
+    {
+      "word": "notebook",
+      "meaning": "A small book of blank or ruled pages for writing notes.",
+      "pronunciation": "/ˈnoʊtbʊk/",
+      "usage": "She carried a notebook to jot down ideas during class.",
+      "roots": "Compound of note + book.",
+      "etymology": "From note + book, English coinage from 16th century onwards.",
+      "related": ["notepad", "journal", "logbook"]
+    },
+    {
+      "word": "brain",
+      "meaning": "The organ inside the skull that controls the body; intelligence.",
+      "pronunciation": "/breɪn/",
+      "usage": "The brain is the center of the nervous system.",
+      "roots": "Old English brægen (\"brain\"), from Proto-Germanic *bragnan.",
+      "etymology": "From Old English brægen, from Proto-Germanic *bragnan.",
+      "related": ["mind", "intellect", "cerebrum"]
+    },
+    {
+      "word": "pride",
+      "meaning": "A feeling of self-respect or personal worth; a group of lions.",
+      "pronunciation": "/praɪd/",
+      "usage": "He takes pride in his work; a pride of lions was lounging under the tree.",
+      "roots": "Old English pryde (\"pride, arrogance\").",
+      "etymology": "From Old English pryde, from Proto-Germanic *prudiz (\"wealth, value\").",
+      "related": ["self-esteem", "vanity", "lion group"]
+    },
+    {
+      "word": "dear",
+      "meaning": "Loved or cherished; costly (slang, \"dear\" meaning expensive).",
+      "pronunciation": "/dɪər/",
+      "usage": "She was a dear friend; This vacation was expensive, but so dear to me.",
+      "roots": "Old English deore (\"precious, beloved\"), Proto-Germanic *dōraz.",
+      "etymology": "From Old English deore meaning \"precious, valuable\"; common Germanic root.",
+      "related": ["beloved", "expensive", "cherished"]
+    },
+    {
+      "word": "live",
+      "meaning": "To be alive; having life. (Also pronounced /lɪv/ as an adjective meaning \"alive\").",
+      "pronunciation": "/lɪv/ (verb), /laɪv/ (adjective)",
+      "usage": "They live in the city; The live performance was exciting.",
+      "roots": "Old English libban (\"to live\"), Proto-Germanic *libną.",
+      "etymology": "From Old English libban, from Proto-Germanic *libną (\"to remain, live\").",
+      "related": ["reside", "exist", "alive"]
+    },
+    {
+      "word": "tubes",
+      "meaning": "Plural of tube: long hollow cylinder, often for conveying fluids or gas.",
+      "pronunciation": "/tjuːbz/",
+      "usage": "They installed copper tubes for the air conditioning system.",
+      "roots": "Middle English tubbe, from Old French, from Latin tubus (\"reed, tube\").",
+      "etymology": "From Latin tubus meaning \"tube or pipe\".",
+      "related": ["pipes", "cylinders", "ducts"]
+    },
+    {
+      "word": "cloth",
+      "meaning": "A piece of woven or felted fabric.",
+      "pronunciation": "/klɒθ/",
+      "usage": "She used a cloth to clean the table.",
+      "roots": "Old English clāþ (\"cloth, garment\"), from Proto-Germanic *klaþą.",
+      "etymology": "From Old English clāþ, meaning cloth or garment; akin to Old Norse klæði.",
+      "related": ["fabric", "material", "textile"]
+    },
+    {
+      "word": "mile",
+      "meaning": "A unit of distance equal to 5,280 feet (about 1.609 kilometers).",
+      "pronunciation": "/maɪl/",
+      "usage": "We have a two-mile walk ahead of us.",
+      "roots": "Latin mīlia (\"thousand\"), abbreviation of mīlia passuum (\"thousand paces\").",
+      "etymology": "From Latin mīlia (thousand, as in mīlia passuum, thousand paces), via Old English mīl.",
+      "related": ["kilometer", "league", "yard"]
+    },
+    {
+      "word": "float",
+      "meaning": "To rest or move on the surface of a liquid without sinking.",
+      "pronunciation": "/floʊt/",
+      "usage": "The toy boat will float on water.",
+      "roots": "Old English flōtan (\"to float, swim\"), from Proto-Germanic *flōtōną.",
+      "etymology": "From Old English flōtan, related to Old High German flōzan.",
+      "related": ["drift", "bob", "swim"]
+    },
+    {
+      "word": "snail",
+      "meaning": "A slow-moving mollusk with a spiral shell.",
+      "pronunciation": "/sneɪl/",
+      "usage": "We watched the snail slowly cross the sidewalk.",
+      "roots": "Old English snægl, from Proto-Germanic *snagklaz.",
+      "etymology": "From Old English snægl, meaning snail or slug.",
+      "related": ["slug", "mollusk", "gastropod"]
+    },
+    {
+      "word": "second",
+      "meaning": "The ordinal form of two; also a unit of time (1/60th of a minute).",
+      "pronunciation": "/ˈsɛkənd/",
+      "usage": "She won second place in the race; Wait a second, I'll join you soon.",
+      "roots": "Latin secundus (\"following, next in order\").",
+      "etymology": "From Latin secundus meaning \"following; second\".",
+      "related": ["secondly", "two", "moment"]
+    },
+    {
+      "word": "block",
+      "meaning": "A solid piece of hard material; to obstruct.",
+      "pronunciation": "/blɒk/",
+      "usage": "The road was blocked by a fallen tree.",
+      "roots": "Old French bloc (\"tree trunk\"), origin uncertain.",
+      "etymology": "From Old French bloc, meaning tree trunk; came to mean a large piece of something.",
+      "related": ["obstacle", "barrier", "stop"]
+    },
+    {
+      "word": "other",
+      "meaning": "Referring to a person or thing that is different from one already mentioned.",
+      "pronunciation": "/ˈʌðər/",
+      "usage": "She chose the red one, and he chose the other.",
+      "roots": "Old English ōþer, Proto-Germanic *anþeraz.",
+      "etymology": "From Old English ōþer (\"second, different\"), from Proto-Germanic *anþeraz.",
+      "related": ["another", "different", "remaining"]
+    },
+    {
+      "word": "stood",
+      "meaning": "Past tense of stand: to be upright on the feet.",
+      "pronunciation": "/stʊd/",
+      "usage": "She stood at the front of the line.",
+      "roots": "Old English stōd (past of stand), from Proto-Germanic *standaną.",
+      "etymology": "Past tense of 'stand'; from Old English stōd.",
+      "related": ["stooden (archaic)", "stand", "upright"]
+    },
+    {
+      "word": "corner",
+      "meaning": "The point where two lines, edges, or surfaces meet.",
+      "pronunciation": "/ˈkɔːrnər/",
+      "usage": "Turn right at the corner of the street.",
+      "roots": "Old French corne \"horn, corner\" (likely from Latin cornu, \"horn\").",
+      "etymology": "From Old French corne (\"angle, corner\"); related to Latin cornu (\"horn\").",
+      "related": ["angle", "bend", "nook"]
+    },
+    {
+      "word": "barely",
+      "meaning": "By the smallest margin; hardly.",
+      "pronunciation": "/ˈbɛərli/",
+      "usage": "He barely made the train on time.",
+      "roots": "From bare + -ly; Middle English ber (\"bare\" means \"only\").",
+      "etymology": "Originally meant \"only, simply\" (M.E. ber). Now from bare + -ly, meaning \"hardly\".",
+      "related": ["hardly", "scarcely", "just"]
+    },
+    {
+      "word": "able",
+      "meaning": "Having the power, skill, or means to do something.",
+      "pronunciation": "/ˈeɪbəl/",
+      "usage": "She is able to solve the puzzle quickly.",
+      "roots": "Latin habilis (\"able, fit\"), past participle of habēre.",
+      "etymology": "From Latin habilis, meaning \"fit, suitable, able\".",
+      "related": ["capable", "competent", "qualified"]
+    },
+    {
+      "word": "present",
+      "meaning": "Existing or occurring now; a gift.",
+      "pronunciation": "/ˈprɛzənt/ (adj), /prɪˈzɛnt/ (verb/noun)",
+      "usage": "She is present at the meeting; They gave her a birthday present.",
+      "roots": "Latin praesentem (\"being at hand\").",
+      "etymology": "From Latin praesens (\"being at hand\"), from prae- (\"before\") + esse (\"to be\").",
+      "related": ["gift", "current", "show"]
+    },
+    {
+      "word": "clearly",
+      "meaning": "In a way that is easy to see or understand.",
+      "pronunciation": "/ˈklɪərli/",
+      "usage": "He spoke clearly so everyone could understand.",
+      "roots": "From clear + -ly.",
+      "etymology": "From adjective clear (Old French cler) + -ly.",
+      "related": ["plainly", "distinctly", "evidently"]
+    },
+    {
+      "word": "really",
+      "meaning": "In actual fact; genuinely.",
+      "pronunciation": "/ˈrɪəli/",
+      "usage": "Is this really your final answer?",
+      "roots": "From real + -ly.",
+      "etymology": "From real (Latin realis, \"actual\") + -ly.",
+      "related": ["truly", "genuinely", "actually"]
+    },
+    {
+      "word": "overcome",
+      "meaning": "To succeed in dealing with a problem or difficulty.",
+      "pronunciation": "/ˌoʊvərˈkʌm/",
+      "usage": "He managed to overcome his fear of heights.",
+      "roots": "Old English ofer cuman (\"to come over, overcome\").",
+      "etymology": "From Old English ofer (over) + cuman (to come).",
+      "related": ["conquer", "surmount", "defeat"]
+    },
+    {
+      "word": "sketch",
+      "meaning": "A rough drawing or outline.",
+      "pronunciation": "/skɛtʃ/",
+      "usage": "She did a quick sketch of the building.",
+      "roots": "Italian schizzo or Germanic origin.",
+      "etymology": "From Italian schizzo (\"slap, sketch\") or Low German, meaning \"slapdash drawing\".",
+      "related": ["drawing", "outline", "draft"]
+    },
+    {
+      "word": "evening",
+      "meaning": "The period of time at the end of the day, usually from late afternoon until night.",
+      "pronunciation": "/ˈiːvnɪŋ/",
+      "usage": "We went for a walk on that beautiful summer evening.",
+      "roots": "Old English ǣfnung (\"evening\").",
+      "etymology": "From Old English ǣfnung, from ǣfen (\"evening\").",
+      "related": ["dusk", "nightfall", "twilight"]
+    },
+    {
+      "word": "again",
+      "meaning": "Once more; another time.",
+      "pronunciation": "/əˈɡɛn/",
+      "usage": "Please explain that again, I didn't understand.",
+      "roots": "Old English ongan (\"again, once more\"), Proto-Germanic *windaną.",
+      "etymology": "From Old English agan (\"to start again\").",
+      "related": ["once more", "another time", "repeatedly"]
+    },
+    {
+      "word": "finally",
+      "meaning": "After a long time, at last.",
+      "pronunciation": "/ˈfaɪnəli/",
+      "usage": "After hours of searching, they finally found the key.",
+      "roots": "Old English fina (\"end\").",
+      "etymology": "From final + -ly, via Middle English finaly, from Latin finalis.",
+      "related": ["ultimately", "eventually", "at last"]
+    },
+    {
+      "word": "thumbs",
+      "meaning": "Plural of thumb: the short, thick first digit of the hand.",
+      "pronunciation": "/θʌmz/",
+      "usage": "She gave a thumbs-up to show approval.",
+      "roots": "Old English þūma (\"thumb\").",
+      "etymology": "From Old English þūma (from Proto-Germanic *þūmaz).",
+      "related": ["digit", "finger", "toe"]
+    },
+    {
+      "word": "glittery",
+      "meaning": "Sparkling with reflective light; glittering.",
+      "pronunciation": "/ˈɡlɪtəri/",
+      "usage": "Her dress was covered in glittery sequins.",
+      "roots": "From glitter + -y.",
+      "etymology": "Derived from glitter (Old Norse glitra \"to glitter\") + -y.",
+      "related": ["sparkling", "shiny", "dazzling"]
+    },
+    {
+      "word": "together",
+      "meaning": "With or in proximity to each other; at the same time or place.",
+      "pronunciation": "/təˈɡɛðər/",
+      "usage": "They worked together on the project.",
+      "roots": "Old English tōgædere (\"togeather\"), from tō (to) + gaderian (gather).",
+      "etymology": "From Old English tōgædere, derived from tō (to) + gaderian (to gather).",
+      "related": ["jointly", "togetherness", "collaboratively"]
+    },
+    {
+      "word": "while",
+      "meaning": "A period of time; although (conjunction).",
+      "pronunciation": "/waɪl/",
+      "usage": "I read a book for a while; While he was away, I painted the room.",
+      "roots": "Old English hwīl (\"time, period\").",
+      "etymology": "From Old English hwīl meaning \"time period\"; later a conjunction meaning \"whereas\".",
+      "related": ["period", "whilst", "during"]
+    },
+    {
+      "word": "mother",
+      "meaning": "A female parent.",
+      "pronunciation": "/ˈmʌðər/",
+      "usage": "Her mother taught her how to cook.",
+      "roots": "Old English mōdor, Proto-Indo-European *méh₂tēr.",
+      "etymology": "From Old English mōdor, from Proto-Indo-European *méh₂tēr (\"mother\").",
+      "related": ["mom", "parent", "ma"]
+    },
+    {
+      "word": "worth",
+      "meaning": "Value equivalent to a specified thing; deserving of something.",
+      "pronunciation": "/wɜːrθ/",
+      "usage": "The vase is worth a lot of money.",
+      "roots": "Old English weorþ (\"of value\"), Proto-Germanic *werþaz.",
+      "etymology": "From Old English weorþ, meaning \"worthy, of value\".",
+      "related": ["value", "price", "merit"]
+    },
+    {
+      "word": "solve",
+      "meaning": "To find an answer to a problem or question.",
+      "pronunciation": "/sɒlv/",
+      "usage": "She was able to solve the difficult puzzle.",
+      "roots": "Latin solvere (\"to loosen, explain\").",
+      "etymology": "From Latin solvere (\"to loosen, solve, explain\"), through Old French solver.",
+      "related": ["resolve", "settle", "calculate"]
+    },
+    {
+      "word": "credit",
+      "meaning": "Public acknowledgment of good works or achievements; money available to borrow or a system of deferred payment.",
+      "pronunciation": "/ˈkrɛdɪt/",
+      "usage": "\"Credit was given to the team captain for the victory; I bought the TV on credit.\"",
+      "roots": "Latin creditum (\"loan, trust\").",
+      "etymology": "From Latin creditum (\"loan\"); in English sense of trust or belief from 16th century.",
+      "related": ["acknowledgment", "loan", "finance"]
+    },
+    {
+      "word": "steel",
+      "meaning": "A hard, strong alloy of iron and carbon.",
+      "pronunciation": "/stiːl/",
+      "usage": "The skyscraper was built with a steel framework.",
+      "roots": "Old English stēli (\"steel, hard metal\"), Proto-Germanic *stahliją.",
+      "etymology": "From Old English stēli, from Proto-Germanic *stahliją (\"steel, iron\").",
+      "related": ["iron", "alloy", "metal"]
+    },
+    {
+      "word": "pour",
+      "meaning": "To cause to flow or run by tilting; to rain heavily.",
+      "pronunciation": "/pɔːr/",
+      "usage": "She will pour some water into the glass; It started to pour rain.",
+      "roots": "Old French porrer (\"to carry, convey\"), from Vulgar Latin *pōtāre.",
+      "etymology": "From Old French porrer; possibly from Latin pōtāre (\"to drink\"), i.e. to make flow.",
+      "related": ["flow", "stream", "rain"]
+    },
+    {
+      "word": "anybody",
+      "meaning": "Any person; no matter who.",
+      "pronunciation": "/ˈɛnibɒdi/",
+      "usage": "\"Is there anybody here?\" she asked.",
+      "roots": "From any + body.",
+      "etymology": "Compound of any + body, Old English ánig \"+ bodig.",
+      "related": ["anyone", "someone", "nobody"]
+    },
+    {
+      "word": "whisper",
+      "meaning": "To speak very softly using one's breath rather than one's throat; a soft sound.",
+      "pronunciation": "/ˈwɪspər/",
+      "usage": "\"Please whisper so you don't wake the baby,\" she said.",
+      "roots": "Old English hwisprian (to whisper), imitative origin.",
+      "etymology": "From Old English hwisprian, meaning \"whisper\"; origin imitative of the sound.",
+      "related": ["murmur", "sigh", "hiss"]
+    },
+    {
+      "word": "Thursday",
+      "meaning": "The day of the week after Wednesday and before Friday.",
+      "pronunciation": "/ˈθɜːrzdeɪ/",
+      "usage": "The meeting is scheduled for Thursday.",
+      "roots": "Old English Þūnresdæg (\"Thor's day\"), named after the Norse god Thor.",
+      "etymology": "From Old English Þūnresdæg (Thor's day), after the Norse god of thunder.",
+      "related": ["weekday", "Friday", "Wednesday"]
+    },
+    {
+      "word": "music",
+      "meaning": "Vocal or instrumental sounds combined to produce harmony of melody.",
+      "pronunciation": "/ˈmjuːzɪk/",
+      "usage": "She studied classical music at the conservatory.",
+      "roots": "Latin musica, from Greek mousikē (art of the Muses).",
+      "etymology": "From Latin musica, from Greek mousikē technē (\"art of the Muses\").",
+      "related": ["song", "melody", "tune"]
+    },
+    {
+      "word": "wears",
+      "meaning": "Third-person singular of wear: to have on one's body as clothing.",
+      "pronunciation": "/wɛərz/",
+      "usage": "He wears a uniform to work every day.",
+      "roots": "Old English werian (\"to clothe, put on\"), Proto-Germanic *warojaną.",
+      "etymology": "Third person of wear (Old English werian, to clothe).",
+      "related": ["wear", "clothe", "don"]
+    },
+    {
+      "word": "thoughts",
+      "meaning": "Plural of thought: ideas or opinions produced by thinking.",
+      "pronunciation": "/θɔːts/",
+      "usage": "\"I had lots of thoughts on that topic, but I'll share them later,\" she said.",
+      "roots": "Old English þoht (\"thought\"), Proto-Germanic *þankaz.",
+      "etymology": "Plural of thought, from Old English þōht, meaning \"memory, reflection\".",
+      "related": ["ideas", "opinions", "reflections"]
+    },
+    {
+      "word": "fluttering",
+      "meaning": "Moving or flapping quickly and lightly.",
+      "pronunciation": "/ˈflʌtərɪŋ/",
+      "usage": "The bird was fluttering its wings before taking off.",
+      "roots": "From flutter + -ing.",
+      "etymology": "Present participle of flutter (origin imitative).",
+      "related": ["flapping", "trembling", "wobbling"]
+    },
+    {
+      "word": "down",
+      "meaning": "Toward or in a lower place; away from the sky or a higher place.",
+      "pronunciation": "/daʊn/",
+      "usage": "He climbed up the ladder and then back down.",
+      "roots": "Old English dūn (\"down\"), Proto-Germanic *dunjaz.",
+      "etymology": "From Old English dūn, originally meaning \"hill\", later directional downward.",
+      "related": ["below", "beneath", "descend"]
+    }
+  ]
+  
