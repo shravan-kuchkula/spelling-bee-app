@@ -59,26 +59,50 @@ function App() {
   return (
     <div className="container" style={{maxWidth: 700, minWidth: 320, margin: '2.5rem auto', background: '#fff', borderRadius: 18, boxShadow: '0 4px 24px #0002', padding: '2.5rem 2rem', boxSizing: 'border-box', overflow: 'hidden'}}>
       <h1 style={{textAlign: 'center', marginBottom: '2.5rem', color: '#2d3a4b', letterSpacing: 1, fontWeight: 800, fontSize: '2.3rem'}}>Spelling Bee App</h1>
-      <div className="spelling-section" style={{display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: 18, marginBottom: 36, justifyContent: 'center'}}>
-        <button className="say-button" onClick={handleSayWord} style={{padding: '0.6rem 1.25rem', borderRadius: 8, border: 'none', background: '#007bff', color: '#fff', fontWeight: 700, fontSize: '1.1rem', cursor: 'pointer', boxShadow: '0 2px 6px #007bff22'}}>🔊 Say Word</button>
-        <span style={{fontWeight: 600, fontSize: '1.3rem', color: '#555', marginLeft: 10, marginRight: 10, whiteSpace: 'nowrap'}}>{word.pronunciation && `(${word.pronunciation})`}</span>
-        <input
-          ref={inputRef}
-          type="text"
-          value={input}
-          onChange={e => { setInput(e.target.value); setChecked(false); }}
-          onKeyDown={e => { if (e.key === 'Enter') handleCheck(); }}
-          placeholder="Type the word..."
-          style={{fontSize: '1.15rem', padding: '0.6rem 1.1rem', borderRadius: 8, border: checked ? (isCorrect ? '2.5px solid #28a745' : '2.5px solid #dc3545') : '2.5px solid #ccc', outline: 'none', flex: 2, minWidth: 140, maxWidth: 240, marginLeft: 10, marginRight: 10, background: '#f9fafb', boxSizing: 'border-box'}}
-        />
-        <button onClick={handleCheck} style={{padding: '0.6rem 1.25rem', borderRadius: 8, border: 'none', background: '#17a2b8', color: '#fff', fontWeight: 700, fontSize: '1.1rem', cursor: 'pointer', marginLeft: 10, boxShadow: '0 2px 6px #17a2b822'}}>Check</button>
-        {checked && (
-          isCorrect ?
-            <span style={{color: '#28a745', fontSize: '2.1rem', marginLeft: 10}} title="Correct">✔️</span>
-            :
-            <span style={{color: '#dc3545', fontSize: '2.1rem', marginLeft: 10}} title="Incorrect">❌</span>
-        )}
-      </div>
+      <div className="spelling-section" style={{display: 'flex', flexDirection: 'row', flexWrap: 'wrap', alignItems: 'stretch', gap: 24, marginBottom: 36, justifyContent: 'center'}}>
+  {/* Left column: speech buttons */}
+  <div className="speech-buttons-col" style={{display: 'flex', flexDirection: 'column', gap: 14, minWidth: 170, flex: 1, maxWidth: 200, justifyContent: 'flex-start'}}>
+    <button className="say-button" onClick={handleSayWord} style={{padding: '0.6rem 1.25rem', borderRadius: 8, border: 'none', background: '#007bff', color: '#fff', fontWeight: 700, fontSize: '1.05rem', cursor: 'pointer', boxShadow: '0 2px 6px #007bff22'}}>🔊 Say Word</button>
+    <button className="meaning-button" onClick={() => {
+      if ('speechSynthesis' in window) {
+        const utter = new window.SpeechSynthesisUtterance(word.meaning);
+        utter.lang = 'en-US';
+        window.speechSynthesis.speak(utter);
+      } else {
+        alert('Sorry, your browser does not support speech synthesis.');
+      }
+    }} style={{padding: '0.6rem 1.25rem', borderRadius: 8, border: 'none', background: '#28a745', color: '#fff', fontWeight: 700, fontSize: '1.05rem', cursor: 'pointer', boxShadow: '0 2px 6px #28a74522'}}>💡 Give me the meaning</button>
+    <button className="usage-button" onClick={() => {
+      if ('speechSynthesis' in window) {
+        const utter = new window.SpeechSynthesisUtterance(word.usage);
+        utter.lang = 'en-US';
+        window.speechSynthesis.speak(utter);
+      } else {
+        alert('Sorry, your browser does not support speech synthesis.');
+      }
+    }} style={{padding: '0.6rem 1.25rem', borderRadius: 8, border: 'none', background: '#fd7e14', color: '#fff', fontWeight: 700, fontSize: '1.05rem', cursor: 'pointer', boxShadow: '0 2px 6px #fd7e1422'}}>📝 Use it in a sentence</button>
+  </div>
+  {/* Right column: pronunciation, input, check */}
+  <div className="input-col" style={{display: 'flex', flexDirection: 'column', gap: 14, minWidth: 200, flex: 2, maxWidth: 320, justifyContent: 'flex-start', alignItems: 'stretch'}}>
+    <span style={{fontWeight: 600, fontSize: '1.25rem', color: '#555', whiteSpace: 'nowrap', marginBottom: 2}}>{word.pronunciation && `(${word.pronunciation})`}</span>
+    <input
+      ref={inputRef}
+      type="text"
+      value={input}
+      onChange={e => { setInput(e.target.value); setChecked(false); }}
+      onKeyDown={e => { if (e.key === 'Enter') handleCheck(); }}
+      placeholder="Type the word..."
+      style={{fontSize: '1.11rem', padding: '0.6rem 1.1rem', borderRadius: 8, border: checked ? (isCorrect ? '2.5px solid #28a745' : '2.5px solid #dc3545') : '2.5px solid #ccc', outline: 'none', minWidth: 120, maxWidth: 240, background: '#f9fafb', boxSizing: 'border-box', width: '100%'}}
+    />
+    <button onClick={handleCheck} style={{padding: '0.6rem 1.25rem', borderRadius: 8, border: 'none', background: '#17a2b8', color: '#fff', fontWeight: 700, fontSize: '1.05rem', cursor: 'pointer', boxShadow: '0 2px 6px #17a2b822'}}>Check</button>
+    {checked && (
+      isCorrect ?
+        <span style={{color: '#28a745', fontSize: '2.1rem', marginTop: 2}} title="Correct">✔️</span>
+        :
+        <span style={{color: '#dc3545', fontSize: '2.1rem', marginTop: 2}} title="Incorrect">❌</span>
+    )}
+  </div>
+</div>
       {checked && (
         <>
           <div className="word-section" style={{display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '1rem'}}>
