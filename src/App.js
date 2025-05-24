@@ -108,6 +108,9 @@ function App() {
           <button onClick={handleNext} className="next-button" style={{width: '100%', padding: '0.75rem', fontSize: '1.1rem', borderRadius: 8, border: 'none', background: '#ffc107', color: '#333', fontWeight: 700, cursor: 'pointer'}}>Next Random Word</button>
         </>
       )}
+      <footer style={{width: '100%', textAlign: 'center', marginTop: '2.5rem', fontSize: '0.98rem', color: '#888', padding: '1.2rem 0 0.5rem 0', borderTop: '1px solid #eee', background: 'transparent', letterSpacing: '0.2px'}}>
+        © {new Date().getFullYear()} Designed by <span style={{fontWeight: 500, color: '#3b5998'}}>Veyd Kuchkula</span>
+      </footer>
     </div>
   );
 }
